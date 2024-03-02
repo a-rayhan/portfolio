@@ -1,0 +1,6 @@
+.bg-img{
+    background-image: url('https://raw.githubusercontent.com/rammcodes/Dopefolio/5d5f8398ceb0abfa5e910b8a02c155e8816e3a72/assets/svg/common-bg.svg');
+    object-fit: cover;
+    object-position: center;
+    background-repeat: no-repeat;
+}
